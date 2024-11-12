@@ -23,8 +23,7 @@ Generally speaking, the PC-VR version is running much more smooth.
 ## Summary
 In this prototype, the overall content can be experienced. 
 Even though classified as beta, the overall flow of this application has been implemented. 
-The ReadMe.md has to be done and will be released at latest for version 1.0
 
-Again a short showcase of the prototypes content can be seen [here](https://youtu.be/5jYO1F1w6dc)
+A short showcase of the prototypes content can be seen [here](https://youtu.be/5jYO1F1w6dc)
 
 ****
