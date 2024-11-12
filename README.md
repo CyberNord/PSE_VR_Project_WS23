@@ -4,6 +4,7 @@ This Project contains a VR Educational App Quiz &amp; Interaction for Sorting Al
 ## General
 
 Seminar Paper can be fount [here](https://github.com/CyberNord/PSE_VR_Project_WS23/tree/main/seminar_paper)
+
 Available for PC-VR and Standalone-VR.
 Generally speaking, the PC-VR version is running much more smooth. 
 
